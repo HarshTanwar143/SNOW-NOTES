@@ -1,0 +1,6 @@
+incident (5): new, in progress, on hold, resolved, closed
+problem (6) : new, assess, root cause analysis(RCA), fix in progress, resolved, closed
+types of change : normal, standard, emergency, model
+change (8) : new, assess, authorize, schedule, implement, review, closed, cancelled
+Knowledge base : draft, review, scheduled for publish, publish, pending retirement, retired, outdated
+requested item (RITM) : request approval, manager approval, dept. head approval, order fullfuillment, deployment, request cancelled, completed
